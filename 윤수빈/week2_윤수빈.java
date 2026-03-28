@@ -1,6 +1,6 @@
 import java.util.Scanner; //scanner를 가져온다는 느낌
 
-public class Week2LikeLion {
+public class week2_윤수빈 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); //Scanner라는 도구로 새 Scanner를 만들고 키보드(System.in)에 연결
 
